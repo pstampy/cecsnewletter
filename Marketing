@@ -1,0 +1,15 @@
+<div style="background-color:blue">
+<h2>Marketing News</h2>
+
+<h3>First Title</h3>
+<p>First Para</p>
+<a href="#">read more</a>
+
+<h3>Second Title</h3>
+<p>Second Para</p>
+<a href="#">read more</a>
+
+<h3>Third Title</h3>
+<p>Third Para</p>
+<a href="#">read more</a>
+</div>
